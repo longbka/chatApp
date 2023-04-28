@@ -1,10 +1,10 @@
-# shophh
+# ChatApp
 **Installation**
 
 **Requirements**
 - Node.js v14 or newer.
 - npm or yarn.
-- MySQL
+- MongoDB
 
 **Backend**
 
